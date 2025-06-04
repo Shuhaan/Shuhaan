@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Shuhaan
-- 👀 I’m interested in data science, software development, mathematics, etc.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any interesting project.
-- 📫 How to reach me: shuhaan15@gmail.com
-- ⚡ Fun fact: Manchester United fan.
+- 👀 I’m interested in data engineering, data science, mathematics, etc.
+- 🌱 I’m currently learning Spark and how to use GCP services.
+- ⚡ Fun fact: I'm a Manchester United fan unfortunately.
 
 <!---
 Shuhaan/Shuhaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
